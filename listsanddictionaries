@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>Lists and Dictionaries</title>
+  <style>
+    body{background-color:rgb(255,186,224);}
+  </style>
+</head>
+<body>
+  <h1 style="text-align:center;">Lists and Dictionaries</h1>
+  <h3 style="text-align:center;">July 10th, 2017</h3>
+  <h4 style="padding-left:20px";>What makes computers good at data?</h4>
+    <p style="padding-left:20px";>Computers can run an extraordinary amount of algorithms in a short amount of time.  They are good at repeating processes without tiring unlike humans.</p>
+  <h4 style="padding-left:20px";>Write an interesting fact about the data scientist you remember today.</h4>
+    <p style="padding-left:20px";>An interesting fact about Megan Price is that her data was used for evidence in two court cases.</p>
+  <a href="https://althevia.github.io/Portfolio/reflections.html" style="padding-left:20px;">Back to reflections page<a>
+</body>  
+</html>
